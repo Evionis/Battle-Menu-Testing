@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\NoahT\source\repos\Battle Menu\Battle Menu\test.cpp(290,58): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\NoahT\source\repos\Battle Menu\Battle Menu\test.cpp(293,58): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\NoahT\source\repos\Battle Menu\Battle Menu\test.cpp(430,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\NoahT\source\repos\Battle Menu\Battle Menu\test.cpp(443,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Battle Menu.vcxproj -> C:\Users\NoahT\source\repos\Battle Menu\Debug\Battle Menu.exe
